@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.b{
+display: flex;
+margin:20px;
+align-items: center;
+        }
+.a{
+    width: 100vw;
+    height: 7vh;
+    background-color: white;
+    position: fixed;
+    display: flex;
+    justify-content: center
+}
+.c{
+    background:url(https://mapi7.com/assets/images/blog/cherno-beloe-foto/cherno-beloe-foto-2.jpg);
+    width: 100vw;
+    height: 60vh;
+}
+.b:hover{
+    color: green;
+}
+.d{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.e{
+    width: 33.33vw;
+    height: 47vh;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+i{
+    font-size: 50px ;
+}
